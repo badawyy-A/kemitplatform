@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kemitplatform/static/css/main.db8157de.css",
+    "main.js": "/kemitplatform/static/js/main.74e02f6c.js",
+    "static/js/453.cc988b90.chunk.js": "/kemitplatform/static/js/453.cc988b90.chunk.js",
+    "index.html": "/kemitplatform/index.html",
+    "main.db8157de.css.map": "/kemitplatform/static/css/main.db8157de.css.map",
+    "main.74e02f6c.js.map": "/kemitplatform/static/js/main.74e02f6c.js.map",
+    "453.cc988b90.chunk.js.map": "/kemitplatform/static/js/453.cc988b90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db8157de.css",
+    "static/js/main.74e02f6c.js"
+  ]
+}

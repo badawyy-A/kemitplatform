@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kemitplatform/static/css/main.ec7bb8ac.css",
-    "main.js": "/kemitplatform/static/js/main.fa9229b0.js",
+    "main.css": "/kemitplatform/static/css/main.c779980f.css",
+    "main.js": "/kemitplatform/static/js/main.15642a45.js",
     "static/js/453.cc988b90.chunk.js": "/kemitplatform/static/js/453.cc988b90.chunk.js",
     "static/media/instgram-1 (4).jpg": "/kemitplatform/static/media/instgram-1 (4).6cbb245d136c717b542e.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/kemitplatform/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -20,12 +20,12 @@
     "static/media/fa-v4compatibility.woff2": "/kemitplatform/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/kemitplatform/index.html",
     "static/media/search.svg": "/kemitplatform/static/media/search.347eff8fdc52e322d777103165bed12f.svg",
-    "main.ec7bb8ac.css.map": "/kemitplatform/static/css/main.ec7bb8ac.css.map",
-    "main.fa9229b0.js.map": "/kemitplatform/static/js/main.fa9229b0.js.map",
+    "main.c779980f.css.map": "/kemitplatform/static/css/main.c779980f.css.map",
+    "main.15642a45.js.map": "/kemitplatform/static/js/main.15642a45.js.map",
     "453.cc988b90.chunk.js.map": "/kemitplatform/static/js/453.cc988b90.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec7bb8ac.css",
-    "static/js/main.fa9229b0.js"
+    "static/css/main.c779980f.css",
+    "static/js/main.15642a45.js"
   ]
 }
